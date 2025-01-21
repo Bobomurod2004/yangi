@@ -1,0 +1,34 @@
+{
+    "count": 14,
+    "next": null,
+    "previous": "https://admin.soffstudy.uz/api/v1/gallery/?limit=9",
+    "title": "",
+    "description": "",
+    "data": [
+        {
+            "id": 12,
+            "name": "Soff typing g'oliblari",
+            "image_url": "https://admin.soffstudy.uz/media/gallery/IMG_3138.JPG"
+        },
+        {
+            "id": 13,
+            "name": "Soff Study /bayramona kayfiyat",
+            "image_url": "https://admin.soffstudy.uz/media/gallery/IMG_1617.JPG"
+        },
+        {
+            "id": 14,
+            "name": "Soff beginning...",
+            "image_url": "https://admin.soffstudy.uz/media/gallery/IMG_3306_2.JPG"
+        },
+        {
+            "id": 15,
+            "name": "Soff exams...",
+            "image_url": "https://admin.soffstudy.uz/media/gallery/IMG_0881_2.JPG"
+        },
+        {
+            "id": 16,
+            "name": "Soff bitiruvchilar",
+            "image_url": "https://admin.soffstudy.uz/media/gallery/IMG_2514_2.JPG"
+        }
+    ]
+}
